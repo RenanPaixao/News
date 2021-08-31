@@ -1,0 +1,14 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Renan Paixão <57810270+RenanPaixao@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.59",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
